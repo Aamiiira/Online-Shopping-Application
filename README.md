@@ -1,4 +1,5 @@
-
+## Overview
+The Online Shopping Application is built on a microservices architecture, comprising multiple autonomous services (microservices) working together to deliver full functionality.
 ## How to run the application using Docker
 
 1. Run `mvn clean package -DskipTests` to build the applications and create the docker image locally.
